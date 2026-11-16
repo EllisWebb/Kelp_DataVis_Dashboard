@@ -1,4 +1,4 @@
-# Kelp Data Monitoring Data Visualization Dashboard
+# Bull Kelp (Nereocystis luetkeana) Monitoring Data Visualization Dashboard
 
 >  Here we will explore the best ways to present Northwest Strait Commission (NWSC) - Marine Resource Committee (MRC) kelp forest monitoring dataset which includes a variety of health metrics taken from June - September in the years 2015 - 2025
 
