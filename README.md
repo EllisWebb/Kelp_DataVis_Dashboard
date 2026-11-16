@@ -1,6 +1,6 @@
 # Bull Kelp (Nereocystis luetkeana) Monitoring Data Visualization Dashboard
 
->  Here we will explore the best ways to present Northwest Strait Commission (NWSC) - Marine Resource Committee (MRC) kelp forest monitoring dataset which includes a variety of health metrics taken from June - September in the years 2015 - 2025
+>  Here we will explore the best ways to present Northwest Strait Commission (NWSC) - Marine Resource Committee (MRC) kelp forest monitoring dataset which includes a variety of health metrics taken from June - September in the years 2015 - 2025. As a proof of concept we will focus on the Possession Point monitoring site and expand to other sites in the future. 
 
 ---
 
@@ -83,3 +83,30 @@ Licenses outside of data copyright are not applicable.
 Thanks to NWSC Employees Jeff Whitty, Leah Skare, and Suzanne Shull for collating and QA/QCing the data, not to mention the day to day work they do to manage the Kelp Monitoring Data. 
 
 Thanks to all MRC volunteers for hundreds of hours on the water collecting data. 
+
+
+
+# Description of Graphics
+
+1. Ridgeline of Acreage Change Over Time
+	Perhaps the most integral part, and certainly the aim, of this monitoring project is to implicitly track the health of kelp throughout the Salish Sea via the change in the maximum area seen each summer at each one of these kelp sites. However, environmental parameters such as temperature, nutrients, and water quality can cause variation on smaller time scales, even from month to month. The ridgeline plot is aimed to showcase how the increase of kelp area over the growing season (June - September) fluctuates during that time period.
+
+2. Depth Change Over Time
+	Depth is a data point that is taken 4 times during most surveys, two along the shoreline side of the kelp perimeter, and another two along the sound edge of the kelp perimeter. Changes in depth over time can be indicative of environmental parameters influence of kelp health such as rising temperatures causing a retreat from shallow regions, or sediment changes causing retreats from deeper regions. For this reason, we deemed it important to track these changes in a simple line graph which will depict "average sound edge depth" and "average shore edge depth" throughout the projects history. 
+
+3. Interactive Map of Island County's 5 Monitoring Sites
+
+4. 2025 Pycnocline Heat Map (Salinity & Temperature Changes in the Water Column)
+
+5. Perimeter / Area Ratio vs Area
+
+6. Spline of Temperature Extremes
+
+7. CV Score
+
+8. Trend Score
+
+9. Share of Total Acres Monitored Treemap
+10. 
+
+
