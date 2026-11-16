@@ -94,7 +94,7 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 2. Depth Change Over Time
 	
-	Depth is a data point that is taken 4 times during most surveys, two along the shoreline side of the kelp perimeter, and another two along the sound edge of the kelp perimeter. Changes in depth over time can be indicative of environmental parameters influence of kelp health such as rising temperatures causing a retreat from shallow regions, or sediment changes causing retreats from deeper regions. For this reason, we deemed it important to track these changes in a simple line graph which will depict "average sound edge depth" and "average shore edge depth" throughout the projects history. 
+	Depth is a data point taken 4 times during most surveys, two along the shoreline side of the kelp perimeter, and another two along the sound edge of the kelp perimeter. Changes in depth over time can be indicative of environmental parameters influence of kelp health such as rising temperatures causing a retreat from shallow regions, or sediment changes causing retreats from deeper regions. For this reason, we deemed it important to track these changes in a simple line graph which will depict "average sound edge depth" and "average shore edge depth" throughout the projects history. 
 
 3. Interactive Map of Island County's 5 Monitoring Sites
 
