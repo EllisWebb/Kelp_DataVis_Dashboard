@@ -100,15 +100,24 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 4. 2025 Pycnocline Heat Map (Salinity & Temperature Changes in the Water Column)
 
-5. Perimeter / Area Ratio vs Area
+5. Perimeter / Area Ratio (PA) vs Area
+
+	PA = Perimeter (mi) / Area (acre)
 
 6. Spline of Temperature Extremes
 
-7. CV Score
+7. Coefficient of Variation (CV) Score
+
+	CV = Standard Deviation of Area / Mean of Area	
 
 8. Trend Score
 
 9. Share of Total Acres Monitored Treemap
-10. 
+
+10. Percent Area Change ????
+
+    % CH = ((Area - Area Previous Year) / Area of Previous Year ) * 100
+
+	
 
 
