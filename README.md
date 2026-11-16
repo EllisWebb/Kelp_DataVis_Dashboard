@@ -89,9 +89,11 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 # Description of Graphics
 
 1. Ridgeline of Acreage Change Over Time
+	
 	Perhaps the most integral part, and certainly the aim, of this monitoring project is to implicitly track the health of kelp throughout the Salish Sea via the change in the maximum area seen each summer at each one of these kelp sites. However, environmental parameters such as temperature, nutrients, and water quality can cause variation on smaller time scales, even from month to month. The ridgeline plot is aimed to showcase how the increase of kelp area over the growing season (June - September) fluctuates during that time period.
 
 2. Depth Change Over Time
+	
 	Depth is a data point that is taken 4 times during most surveys, two along the shoreline side of the kelp perimeter, and another two along the sound edge of the kelp perimeter. Changes in depth over time can be indicative of environmental parameters influence of kelp health such as rising temperatures causing a retreat from shallow regions, or sediment changes causing retreats from deeper regions. For this reason, we deemed it important to track these changes in a simple line graph which will depict "average sound edge depth" and "average shore edge depth" throughout the projects history. 
 
 3. Interactive Map of Island County's 5 Monitoring Sites
