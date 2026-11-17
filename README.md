@@ -127,7 +127,7 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 Understanding the relationship between the Perimeter/Area Ratio and Area values can support analysis of how kelp expands in the ocean. Both variables are quantitative values, meaning they would be the most effectively encoded by position. An effective plot would be a scatterplot with Area in acres on the x axis, the PA ratio on the Y axis, and categorical color encodings for each location can effectively display how the PA ratio changes by area in different locations. The plot may need to be scaled to accomodate a larger range of values. 
 
-9. Coefficient of Variation (CV) Score
+8. Coefficient of Variation (CV) Score
 
 	CV = Standard Deviation of Area / Mean of Area
 
