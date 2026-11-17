@@ -115,26 +115,26 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 	Salinity and temperature are two important ways to identify the density gradient where the pycnocline sits within a body of water. To try and identify at what depth this pycnocline sits, we want to look at the changes in both salinity and temperature from the surface for Possession Point. This site collects data at four distinct points, and we will want to show these points in a side-by-side comparison. We will make two sets of bar charts, one for changes in salinity and one for changes in temperature. The x-axis will be the months in which the surveys were collected, while the y-axis will be the depth at which the temperature or salinity changes. 
 
-6. Perimeter / Area Ratio (PA) vs Area
-
-	PA = Perimeter (mi) / Area (acre)
-
-7. Spline of Temperature Extremes
-
-8. Coefficient of Variation (CV) Score
-
-	CV = Standard Deviation of Area / Mean of Area	
-
-9. Trend Score
-
-10. Share of Total Acres Monitored Treemap
-
-11. Percent Area Change ????
+6. Percent Area Change ????
 
     % CH = ((Area - Area Previous Year) / Area of Previous Year ) * 100
 
 	We can go two different ways to visualize the change in area of the beds from year to year. We experimented with plotting them on a map during EDA (the AY EDA document). If we did this, every year should probably be associated with a different color and be transparent so it does not occlude the years behind it. While this might be a compelling graphic for a casual audience, it leaves a lot to be desired for accuracy of reporting changes in area, which is already a difficult task for a human brain. So the alternate graphic would be a bar chart of normalized data that shows the change in area from year to year. Could be a diverging bar chart to really drive home the increase/ decrease from year to year. Position is the most relevant encoding for this type of chart but, if we were to use color, we would use green for growth (inc) and red for decreases, or even potentially leave decreases as grey so that it is less salient. The scale for this type of chart would be percentage change.
 
-	
+## Additional Potential Plots
+
+7. Perimeter / Area Ratio (PA) vs Area
+
+	PA = Perimeter (mi) / Area (acre)
+
+8. Spline of Temperature Extremes
+
+9. Coefficient of Variation (CV) Score
+
+	CV = Standard Deviation of Area / Mean of Area	
+
+10. Trend Score
+
+11. Share of Total Acres Monitored Treemap
 
 
