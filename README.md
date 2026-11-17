@@ -65,7 +65,7 @@ Individual cleaned data sets can be located in the "cleaned_eda" code notebook u
 
 The notebooks should be run in this order:
 
-1.	
+1.	[Kelp Data Visualization](https://github.com/<username>/<repo>/blob/main/code/clean_eda/Kelp_DataVis.ipynb)
 2.	
 
 ---
@@ -82,11 +82,13 @@ The notebooks should be run in this order:
 - Sydney Golden- [@sgolden3](github.com/sgolden3)
 
 - Jamil Ditter - [@jamilditter](github.com/jamilditter)
+
 ---
 
 ## License
 
-Licenses outside of data copyright are not applicable. 
+Licenses outside of data copyright and the MIT License are not applicable. 
+- see the [LICENSE](LICENSE) file for details.
 
 ---
 
