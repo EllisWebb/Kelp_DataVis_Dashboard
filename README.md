@@ -25,8 +25,10 @@
 
 ## Data
 
+Individual cleaned data sets can be located in the "cleaned_eda" code notebook under "Kelp_DataVis.ipynb". 
+
 - **Source:**
-- NWS-MRC Kayak Kelp Monitoring Data
+- NWS-MRC Kayak Kelp Monitoring Data - "SoundIQ Data Cleaning"
  	- Community Science Monitoring Efforts Performed by the Marine Resource Committees (MRCs), 	funded and managed by Northwest 		Straits Commission (NWSC) 2015 - 2024.
 	- We have been given special permission to use a larger data set, however, the public version is available at: 						https://experience.arcgis.com/experience/5416ae7c51ae4244a1a42ba679c1479f/page/ 
   
@@ -38,7 +40,7 @@
   
 
 - **Source:**
-- Island County MRC Conductivity, Temperature & Dissolved Solids Monitoring.
+- Island County MRC Conductivity, Temperature & Dissolved Solids Monitoring - "CTD Cleaning"
 	- Salinity & Temperature data taken at select kelp sites in 2015 - 2017 & all sites in 2025
 	- Not publicly available.
   
@@ -48,8 +50,8 @@
 - **License:**
 	Data used in our specific project is not for public use or publication.
 
-- **Source:**
-- NWS-MRC Kayak Kelp Monitoring Latitude-Longitude Data
+- **Source:** 
+- NWS-MRC Kayak Kelp Monitoring Latitude-Longitude Data - "Locations Cleaning"
 	- Not publicly available.
   
 - **Description:**
