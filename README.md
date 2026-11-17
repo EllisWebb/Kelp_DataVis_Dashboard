@@ -113,7 +113,7 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 4. 2025 Pycnocline Heat Map (Salinity & Temperature Changes in the Water Column)
 
-	Salinity and temperature are two important ways to identify the density gradient where the pycnocline sits within a body of water. To try and identify at what depth this pycnocline sits, we want to look at the changes in both salinity and temperature from the surface for Possession Point. This site collects data at four distinct points, and we will want to show these points in a side-by-side comparison. We will make two sets of bar charts, one for changes in salinity and one for changes in temperature. The x-axis will be the months in which the surveys were collected, while the y-axis will be the depth at which the temperature or salinity changes. 
+	Salinity and temperature are two important ways to identify the density gradient where the pycnocline sits within a body of water. To try and identify at what depth this pycnocline sits, we want to look at the changes in both salinity and temperature from the surface for Possession Point. This site collects data at four distinct points, and we will want to show these points in a side-by-side comparison. We will make two sets of bar charts, one for changes in salinity and one for changes in temperature. The x-axis will be the months in which the surveys were collected, while the y-axis will be the depth at which the temperature or salinity changes. Color will be used to distinguish the changes in salinity and temperature for their respective bar charts.
 
 5. Percent Area Change
 
