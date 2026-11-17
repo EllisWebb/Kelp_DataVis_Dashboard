@@ -31,7 +31,7 @@
 	- We have been given special permission to use a larger data set, however, the public version is available at: 						https://experience.arcgis.com/experience/5416ae7c51ae4244a1a42ba679c1479f/page/ 
   
 - **Description:**
-	- A census dataset created with the express aim to monitor the location, spatial migration, and area of kelp forests around the Puget Sound. In addition this data set contains Sea Surface Temperature Data and Kelp Expression Area in Acres at 31 sites across the Salish Sea. We expect to see relationships between location and Kelp Expression Area, where different locations may have smaller or greater kelp expansions depending on their conditions.
+	- A census dataset created with the express aim to monitor the location, spatial migration, and area of kelp forests around the Puget Sound. In addition this data set contains Sea Surface Temperature Data and Kelp Expression Area in Acres at 31 sites across the Salish Sea. We expect to see relationships between location and Kelp Expression Area, where different locations may have smaller or greater kelp expansions depending on their conditions. One goal with this data set would be to visualize the change in area of kelp over time.
 
 -  **License:**
 	Data used in our specific project is not for public use or publication. 
@@ -43,7 +43,7 @@
 	- Not publicly available.
   
 - **Description:**
-	- A shorter dataset taken during surveys from sea surface to benthos of temperature and salinity (via converted conductivity) at 4 data points around the perimeter of the kelp perimeter. A rellationship we expect to find is an increase of salinity with temperature. An increase in temperature can lead to water evaporation, hence increasing salinity as it becomes less diluted. 
+	- A shorter dataset taken during surveys from sea surface to benthos of temperature and salinity (via converted conductivity) at 4 data points around the perimeter of the kelp perimeter. A relationship we expect to find is an increase of salinity with temperature. An increase in temperature can lead to water evaporation, hence increasing salinity as the solution becomes less diluted. After merging with other data sets, our goal would be determining if salinity or temperature has an impact on kelp growth.
   
 - **License:**
 	Data used in our specific project is not for public use or publication.
@@ -53,7 +53,7 @@
 	- Not publicly available.
   
 - **Description:**
-	- A small dataset containing latitude and longitude coordinates for multiple kelp bed sites.  We plan to use these coordinates to build site maps, helping us to visualize different spatial relationships between variables.
+	- A small dataset containing latitude and longitude coordinates for multiple kelp bed sites.  We plan to use these coordinates to build site maps, helping us to visualize different spatial relationships between variables. The lat-lon coordinates will be especially helpful as we aim to visualize the change in kelp area across location. 
   
 - **License:**
 	Data used in our specific project is not for public use or publication. 
