@@ -97,26 +97,29 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 	Depth is a data point taken 4 times during most surveys, two along the shoreline side of the kelp perimeter, and another two along the sound edge of the kelp perimeter. Changes in depth over time can be indicative of environmental parameters influence of kelp health such as rising temperatures causing a retreat from shallow regions, or sediment changes causing retreats from deeper regions. For this reason, we deemed it important to track these changes in a simple line graph which will depict "average sound edge depth" and "average shore edge depth" throughout the projects history. 
 
 3. Interactive Map of Island County's 5 Monitoring Sites
+In order to orient ourselves in space it would be helpful to have a map of the locations of the 5 monitoring sites. We already have all of the latitude and longitudes so it is a matter of finding a projection, and plotting our points of interest on the map. Kelp beds will be in green to meet convention. Filters can be added for additional information, such as salinity, conductivity and temperature at each location for the most recent year. Could potentially include popups that show charts of this information from previous years.
 
-4. 2025 Pycnocline Heat Map (Salinity & Temperature Changes in the Water Column)
+5. 2025 Pycnocline Heat Map (Salinity & Temperature Changes in the Water Column)
 
-5. Perimeter / Area Ratio (PA) vs Area
+6. Perimeter / Area Ratio (PA) vs Area
 
 	PA = Perimeter (mi) / Area (acre)
 
-6. Spline of Temperature Extremes
+7. Spline of Temperature Extremes
 
-7. Coefficient of Variation (CV) Score
+8. Coefficient of Variation (CV) Score
 
 	CV = Standard Deviation of Area / Mean of Area	
 
-8. Trend Score
+9. Trend Score
 
-9. Share of Total Acres Monitored Treemap
+10. Share of Total Acres Monitored Treemap
 
-10. Percent Area Change ????
+11. Percent Area Change ????
 
     % CH = ((Area - Area Previous Year) / Area of Previous Year ) * 100
+
+There are two We can go two different ways to visualize the change in area of the beds from year to year. We experimented with plotting them on a map during EDA (the AY EDA document). If we did this, every year should probably be associated with a different color and be transparent so it does not occlude the years behind it. While this might be a compelling graphic for a casual audience, it leaves a lot to be desired for accuracy of reporting changes in area, which is already a difficult task for a human brain. So the alternate graphic would be a bar chart of normalized data that shows the change in area from year to year. Could be a diverging bar chart to really drive home the increase/ decrease from year to year. Position is the most relevant encoding for this type of chart but, if we were to use color, we would use green for growth (inc) and red for decreases, or even potentially leave decreases as grey so that it is less salient. The scale for this type of chart would be percentage change.
 
 	
 
