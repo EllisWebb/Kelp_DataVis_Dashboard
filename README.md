@@ -121,7 +121,7 @@ Thanks to all MRC volunteers for hundreds of hours on the water collecting data.
 
 	We can go two different ways to visualize the change in area of the beds from year to year. We experimented with plotting them on a map during EDA (the AY EDA document). If we did this, every year should probably be associated with a different color and be transparent so it does not occlude the years behind it. While this might be a compelling graphic for a casual audience, it leaves a lot to be desired for accuracy of reporting changes in area, which is already a difficult task for a human brain. So the alternate graphic would be a bar chart of normalized data that shows the change in area from year to year. Could be a diverging bar chart to really drive home the increase/ decrease from year to year. Position is the most relevant encoding for this type of chart but, if we were to use color, we would use green for growth (inc) and red for decreases, or even potentially leave decreases as grey so that it is less salient. The scale for this type of chart would be percentage change.
 
-## Additional Potential Plots
+Additional Potential Plots:
 
 7. Perimeter / Area Ratio (PA) vs Area
 
