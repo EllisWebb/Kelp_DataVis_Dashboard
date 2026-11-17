@@ -63,7 +63,7 @@ Individual cleaned data sets can be located in the "cleaned_eda" code notebook u
 
 The notebooks should be run in this order:
 
-1.	[Kelp Data Visualization (Cleaning & EDA)](https://github.com/<EllisWebb>/<Kelp_DataVis_Dashboard>/blob/main/code/clean_eda/Kelp_DataVis.ipynb)
+1.	[Kelp Data Visualization (Cleaning & EDA)](https://github.com/EllisWebb/Kelp_DataVis_Dashboard/blob/main/code/clean_eda/Kelp_DataVis.ipynb)
 2.	
 
 ---
